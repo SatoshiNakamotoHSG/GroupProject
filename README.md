@@ -24,14 +24,14 @@ mean weight of the top three individual chicken (numbers 21, 34 and 35).
 - DESCRIPTIVE STATISTICS: by using some statistical analysis functions and plotting some distributions, I could 
 gain a good first overview over the data that I wanted to analyze before proceeding with further analyses.
 FACTOR ANALYSIS: although the existence of unobserved latent variables was highly unlikely due to the small
-amount of variables in the ChickWeight dataset, I still analyzed the asymptotic P-values of the correlation 
+amount of variables in the ChickWeight dataset, I still analyzed the asymptotic p-values of the correlation 
 matrix. It showed that there is no correlation with a p-value < 0.05 (the general significance border value 
 for statistical evaluations) and therefore proved the absence of unobserved latent variables in the ChickWeight
 dataset.
 
 - CLUSTER ANALYSIS: Clustering observations based on first the single and then complete linkage procedure 
 resulted in three unique clusters with unique means. The Cluster 1 (containing 199 chicken) was weighted 
-with a mean of 3.34 days after birth and had a mean weight of 54.6 gramms. Cluster 2 (containing 199 chicken) 
+with a mean of 3.34 days after birth and had a mean weight of 54.6 gramms. Cluster 2 (containing 130 chicken) 
 was weighted  with a mean of 9.31 days after birth and had a mean weight of 105 gramms. Finally, small but proven
 to be distinct Cluster 3 (containing 16 chicken) was weighted  with a mean of 11.6 days after birth and had 
 a mean weight of 167 gramms. The results indicate a positive relation between numbers of days since birth and 
