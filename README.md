@@ -13,3 +13,5 @@ It includes the following statistical analyses:
 - regression models
 
 The code is well commented, both from a technical as well as statistical standpoint. My aim was that anyone who finds my code on github would be able to understand, modify and use it. It is split into a lot of sections which can be collapsed. Experience R coders can therefore easily skip sections that are not relevant for them.
+
+# Results
